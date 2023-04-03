@@ -4,7 +4,19 @@ ait + 마우스휠조정 ----> 화면크기 조절
 ~~~
 ## 작은제목
 
-<img src="https://heoyounggyu.github.io/img/ph.jpg" width="400">
-[더 북](https://thebook.io/)
+ <img src="https://heoyounggyu.github.io/img/ph.jpg">
+
+ [더 북](https://thebook.io/)
+
++ 안녕
+  + Hello
+    + hi
 
 
+* 안녕
+  * Hello
+    * hi
+
+- 안녕
+  - Hello
+    - hi
